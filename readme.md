@@ -1,4 +1,4 @@
-﻿######羊ミニピクセルフォント
+﻿# 羊ミニピクセルフォント
 
 ![フォントイメージ](https://github.com/Epheko/HitsujiMiniPixelFont/blob/main/FontImage.png)
 
